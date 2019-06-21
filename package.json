@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "dot-prop": "^5.1.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "html-minifier": "^4.0.0",
+    "mcpe-ping": "0.0.4",
+    "pug": "^2.0.4"
+  }
+}
